@@ -1,1 +1,1 @@
-web: gunicorn company-module.wsgi --log-file -
+web: gunicorn company_module.wsgi --log-file -
